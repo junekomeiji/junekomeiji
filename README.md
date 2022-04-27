@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+wannabe developer, wannabe girl
+kinda lonely, want cs friends actually
