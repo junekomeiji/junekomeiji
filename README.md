@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 
 <p>wannabe developer, wannabe girl</p>
 <p>kinda lonely, want cs friends actually</p>
+<p>apparently i do assembly now</p>
