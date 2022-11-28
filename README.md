@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 <p>wannabe developer, wannabe girl</p>
 <p>kinda lonely, want cs friends actually</p>
 <p>apparently i do assembly now</p>
+<p>unironically the worst programmer on earth, should have quit coding and killed herself 4 years ago (and counting) </p>
