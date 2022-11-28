@@ -17,3 +17,8 @@ Here are some ideas to get you started:
 <p>kinda lonely, want cs friends actually</p>
 <p>apparently i do assembly now</p>
 <p>unironically the worst programmer on earth, should have quit coding and killed herself 4 years ago (and counting) </p>
+
+[![Junes's GitHub stats](https://github-readme-stats.vercel.app/api?username=junekomeiji)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junekomeiji&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<p>here's some proof that i am irredemable and should have turned my brain into the newest colour of wallpaper</p>
