@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junekomeiji&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>here's some proof that i am irredemable and should have turned my brain into the newest colour of wallpaper</p>
+
+<p>useless friend, even more useless programmer</p>
