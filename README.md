@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 <p>wannabe developer, wannabe girl</p>
 <p>kinda lonely, want cs friends actually</p>
 <p>apparently i do assembly now</p>
+
 [![Junes's GitHub stats](https://github-readme-stats.vercel.app/api?username=junekomeiji)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junekomeiji&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
