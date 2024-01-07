@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 <p>working on a java game thing right now! might make it public once it's submitted</p>
 
-[![Junes's GitHub stats](https://github-readme-stats.vercel.app/api?username=junekomeiji)](https://github.com/anuraghazra/github-readme-stats)
+[![June's GitHub stats](https://github-readme-stats-opal-nine-58.vercel.app/api?username=junekomeiji)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junekomeiji&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
