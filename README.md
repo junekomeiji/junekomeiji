@@ -13,11 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>wannabe developer, wannabe girl</p>
-<p>kinda lonely, want cs friends actually</p>
+<p>not-so-wannabe developer, wannabe girl</p>
+<p>would like to talk to more CS people!</p>
 <p>apparently i do assembly now</p>
-
-<p>working on a java game thing right now! might make it public once it's submitted</p>
 
 [![June's GitHub stats](https://github-readme-stats-opal-nine-58.vercel.app/api?username=junekomeiji)](https://github.com/anuraghazra/github-readme-stats)
 
