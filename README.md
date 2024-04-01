@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>not-so-wannabe developer, wannabe girl</p>
+<p>not-so-wannabe developer, just a girl</p>
 <p>would like to talk to more CS people!</p>
 <p>apparently i do assembly now</p>
 
