@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>not-so-wannabe developer, just a girl</p>
+<p>developer, girl, somehow</p>
 <p>would like to talk to more CS people!</p>
-<p>apparently i do assembly now</p>
+<p>join me in my magical hacking adventures :D</p>
 
 [![June's GitHub stats](https://github-readme-stats.vercel.app/api?username=junekomeiji)](https://github.com/anuraghazra/github-readme-stats)
 
